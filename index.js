@@ -1,6 +1,3 @@
-/* @flow */
-'use strict';
-
 // # simple-statistics
 //
 // A simple, literate statistics system.
